@@ -24,7 +24,7 @@ class HelloModel extends Model {
 
 
 	/**
-	 * 初始化 !!!!!!!!!!!!!!!!!!
+	 * 初始化 !!!!!!!!!!!!!!!!!!!!!!
 	 * @param array $param [description]
 	 */
 	function __construct( $param=[] ) {

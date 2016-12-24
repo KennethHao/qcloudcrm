@@ -14,6 +14,15 @@ use \Tuanduimao\Utils as Utils;
 class HelloModel extends Model {
 
 
+
+
+
+
+
+
+
+
+
 	/**
 	 * 初始化
 	 * @param array $param [description]
